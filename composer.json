@@ -1,5 +1,5 @@
 {
-    "name": "eramba/debug-kit-extras",
+    "name": "rooslunn/debug-kit-extras",
     "description": "Extended DebugKit plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
